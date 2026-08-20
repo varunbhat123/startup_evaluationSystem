@@ -1,0 +1,14 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Java compiled files
+bin/
+target/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
